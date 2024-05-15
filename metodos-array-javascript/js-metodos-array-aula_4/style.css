@@ -25,13 +25,13 @@ body {
   background-color: var(--bg-color);
   margin: 15px 15px;
 }
-
 .banner {
-  background-image: url('/imagens/Banner-1.png');
+  background: url('/js-metodos-array-aula_4/imagens/Banner-1.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 278px;
 }
+
 
 .nav {
   display: flex;

@@ -8,3 +8,4 @@ async function getBuscarLivrosDaAPI() {
     livros = aplicarDesconto(livros)
     exibirOsLivrosNaTela(livrosComDesconto)
 }
+
